@@ -10,3 +10,4 @@ result list: [25, 35, 40, 60, 90]
 
 def odd_numbers(list1, list 2)
 print("result list:", )
+print("Ahoj!")
